@@ -10,3 +10,5 @@ Scripts/remap_magnetogram.py
 Scripts/swmfpy
 Scripts/pyfits
 Scripts/__pycache__/
+__pycache__/
+*.pyc
